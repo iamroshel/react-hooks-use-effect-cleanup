@@ -1,4 +1,4 @@
-# The useEffect Hook - Cleaning Up
+# The useEffect Hook - Cleaning Up c
 
 ## Learning Goals
 
